@@ -1,7 +1,10 @@
-This will contain the details of the application workflow.
+## Workflow
+This will contain the details of the application development workflow.
 This will help have uniformity in our work and everyone can know exactly what is going on!
 
-seGmail is a webapp. A webapp because 
+seGmail is a webapp.
+
+### A webapp because:
 
 1. We can reach a greater audience across platforms
 
@@ -9,7 +12,7 @@ seGmail is a webapp. A webapp because
 
 3. We want to make the web safer so there never was a better place to start.
 
-Tech Stack:
+### Tech Stack:
 
 - Front End:  Angular4
 
@@ -17,9 +20,9 @@ Tech Stack:
 
 - Encryption: AES 256
 
-Top Contributors: [Click Here](https://github.com/Innovadenteam/seGmail/graphs/contributors)
+#### Top Contributors: [Click Here](https://github.com/Innovadenteam/seGmail/graphs/contributors)
 
-Core team:
+#### Core team:
 
 - Front End:  [Ajmal Hassan](https://github.com/ajmalhassan)
 
@@ -29,4 +32,6 @@ Core team:
 
 - API:        [Abhinav Gautam](https://github.com/Gotham13121997)
 
-Join the discussions on Telegram: t.me/seGmail or @seGmail
+
+### Join the discussions on Telegram: 
+[Telegram](t.me/seGmail) or @seGmail
