@@ -26,4 +26,4 @@ We're still working on it. ;-)
 - API:        [Abhinav Gautam](https://github.com/Gotham13121997)
 
 ### Join the discussions on Telegram: 
-[Telegram](t.me/seGmail)
+[seGmail](t.me/seGmail)
