@@ -20,18 +20,5 @@ seGmail is a webapp.
 
 - Encryption: AES 256
 
-#### Top Contributors: [Click Here](https://github.com/Innovadenteam/seGmail/graphs/contributors)
-
-#### Core team:
-
-- Front End:  [Ajmal Hassan](https://github.com/ajmalhassan)
-
-- Back End:   [Siddharth Prajosh](https://github.com/sprajosh) & [Advyth Ashok](https://github.com/vyth)
-
-- Encryption: [Abhijith Menon](https://github.com/europa502) & [Nino Stephen](https://github.com/ninostephen)
-
-- API:        [Abhinav Gautam](https://github.com/Gotham13121997)
-
-
 ### Join the discussions on Telegram: 
-[Telegram](t.me/seGmail) or @seGmail
+[seGmail](t.me/seGmail)
