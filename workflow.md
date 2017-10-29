@@ -10,26 +10,23 @@ seGmail is a webapp. A webapp because
 3. We want to make the web safer so there never was a better place to start.
 
 Tech Stack:
-Front End:  Angular4
 
-Back End:   Django
+- Front End:  Angular4
 
-Encryption: AES 256
+- Back End:   Django
+
+- Encryption: AES 256
 
 Top Contributors: [Click Here](https://github.com/Innovadenteam/seGmail/graphs/contributors)
 
 Core team:
 
-Front End:  [Ajmal Hassan](https://github.com/ajmalhassan)
+- Front End:  [Ajmal Hassan](https://github.com/ajmalhassan)
 
-Back End:   [Siddharth Prajosh](https://github.com/sprajosh)
+- Back End:   [Siddharth Prajosh](https://github.com/sprajosh) & [Advyth Ashok](https://github.com/vyth)
 
-            [Advyth Ashok](https://github.com/vyth)
+- Encryption: [Abhijith Menon](https://github.com/europa502) & [Nino Stephen](https://github.com/ninostephen)
 
-Encryption: [Abhijith Menon](https://github.com/europa502)
-
-            [Nino Stephen](https://github.com/ninostephen)
-
-API:        [Abhinav Gautam](https://github.com/Gotham13121997)
+- API:        [Abhinav Gautam](https://github.com/Gotham13121997)
 
 Join the discussions on Telegram: t.me/seGmail or @seGmail
