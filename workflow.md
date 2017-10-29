@@ -21,4 +21,4 @@ seGmail is a webapp.
 - Encryption: AES 256
 
 ### Join the discussions on Telegram: 
-[Telegram](t.me/seGmail)
+[seGmail](t.me/seGmail)
