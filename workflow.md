@@ -22,11 +22,7 @@ seGmail is a webapp.
 
 ## Architecture: 
 
-![img_20171028_181408](https://user-images.githubusercontent.com/33156557/32155861-19d59b50-bd60-11e7-8631-a80f5a64004a.jpg)
-
-
-
-
+![diagram2](https://user-images.githubusercontent.com/24207790/32183279-e31a713a-bdbe-11e7-9988-4bb278b4c2b7.png)
 
 During the signup to seGmail we collect the email address and their public key. 
 
