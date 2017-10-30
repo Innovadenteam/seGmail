@@ -20,5 +20,23 @@ seGmail is a webapp.
 
 - Encryption: AES 256
 
+## Architecture: 
+
+![img_20171028_181408](https://user-images.githubusercontent.com/33156557/32155861-19d59b50-bd60-11e7-8631-a80f5a64004a.jpg)
+
+
+
+
+
+During the signup to seGmail we collect the email address and their public key. 
+
+The senders need to validate the receivers email id to see if they have registered to our website. 
+
+After clicking encrypt option the website would verify the email accounts and fetch the public key form seGmail database. The message would be encrypted on the client side and would be sent to the receiver.
+
+The receiver would then enter his private key to decrypt it on client side.
+
+
 ### Join the discussions on Telegram: 
 [seGmail](t.me/seGmail)
+
