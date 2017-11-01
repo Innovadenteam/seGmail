@@ -18,7 +18,7 @@ seGmail is a webapp.
 
 - Back End:   Django
 
-- Encryption: AES 256
+- Encryption: Yet to be decided
 
 ## Architecture: 
 
