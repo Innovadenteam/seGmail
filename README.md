@@ -21,7 +21,7 @@ We're still working on it. ;-)
 
 - Back End:   [Siddharth Prajosh](https://github.com/sprajosh) & [Advyth Ashok](https://github.com/vyth)
 
-- Encryption: [Abhijith Menon](https://github.com/europa502) & [Nino Stephen](https://github.com/ninostephen)
+- Encryption: [Abhijit Menon](https://github.com/europa502) & [Nino Stephen](https://github.com/ninostephen)
 
 - API:        [Abhinav Gautam](https://github.com/Gotham13121997)
 
